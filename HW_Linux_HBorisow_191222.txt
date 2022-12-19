@@ -1,0 +1,57 @@
+  HW_HeinrichBorisow_191222
+  К сожалению, даже не смог штатно выгрузить.
+  Завтра практика, может переделаю.
+
+ 
+   0 mkdir -p /home/user/start
+   1 cd /home/user/start
+   2 touch 1.txt
+   3 three /home
+   4 cd
+   5 echo "Start" > 1.txt
+   6 date
+   7 date >> 1.txt
+   8 cat 1.txt
+   9 history
+  10 history | tail -4 >> /opt/task/start.txt
+  11 cd /opt
+  12 mcdir task
+  13 cd task
+  14 cd /task
+  15 ls
+  16 mkdir task
+  17 ls
+  18 cp /home
+  19 cd /home
+  20 ls
+  21 cd /user
+  22 cd user
+  23 ls
+  24 cd start
+  25 ls
+  26 cd user
+  36 cd /opt
+  37 cd task
+  38 rmdir start
+  39 ls
+  40 cd..
+  41 cd
+  42 cd..
+  43 mv /home/user/start/1.txt /opt/task/start.txt
+  44 cd opt/task
+  45 cd /opt/task
+  46 ls
+  47 cd /opt
+  48 cd
+  49 history | tail -4 >> /opt/task/start.txt
+  50 cd /opt/task/start.txt
+  51 ls
+  52 cd
+  53 cd ..
+  54 ls
+  55 cd opt/task/start.txt
+  56 cd opt
+  57 cd task
+  58 cd start.txt
+  59 ls -l
+  60 history
