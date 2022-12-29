@@ -1,0 +1,6 @@
+   0 nano /home/2912.txt
+   1 cd /etc
+   2 ls
+   3 cat group | tail -5 >> /home/2912.txt
+   4 vi /home/2912.txt
+   5 history > /tmp/history.txt
